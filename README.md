@@ -152,4 +152,4 @@ Contributions are welcome. To contribute:
 
 ## Contact
 
-For questions or collaboration, use the repository's GitHub issues or contact the project maintainer.
+Ayush Raj
